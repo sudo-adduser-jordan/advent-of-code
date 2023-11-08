@@ -1,11 +1,10 @@
 package main
 
 import (
-	"Go/packages/cast"
-	"Go/packages/mathy"
-	"Go/packages/styles"
-	"Go/packages/utils"
-
+	"Go/pkg/cast"
+	"Go/pkg/mathy"
+	"Go/pkg/styles"
+	"Go/pkg/utils"
 	"bufio"
 	"fmt"
 )

@@ -1,10 +1,9 @@
 package main
 
 import (
-	"Go/packages/cast"
-	"Go/packages/styles"
-	"Go/packages/utils"
-
+	"Go/pkg/cast"
+	"Go/pkg/styles"
+	"Go/pkg/utils"
 	"fmt"
 )
 

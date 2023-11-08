@@ -1,9 +1,8 @@
 package main
 
 import (
-	"Go/packages/styles"
-	"Go/packages/utils"
-
+	"Go/pkg/styles"
+	"Go/pkg/utils"
 	"bufio"
 	"fmt"
 	"os"
