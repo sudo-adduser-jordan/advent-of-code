@@ -1,7 +1,7 @@
 # Advent of Code Solutions
 
 | Event | Stars | Language | Repository |
-| --- | :---: | --- |
+| --- | :---: | :---: | --- |
 | `2023` | * | C++ | https://github.com/sudo-adduser-jordan/advent-of-code-2023 |
 | `2022` | * | GO | https://github.com/sudo-adduser-jordan/advent-of-code-2022 |
 | `2021` | * |  | |
