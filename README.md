@@ -3,7 +3,7 @@
 
 | Event | Repository |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| `git status` | https://github.com/sudo-adduser-jordan/Advent-of-Code-2023 |
+| `git diff` | https://github.com/sudo-adduser-jordan/Advent-of-Code-2023 |
  
-https://github.com/sudo-adduser-jordan/Advent-of-Code-2023
+
