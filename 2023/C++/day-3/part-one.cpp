@@ -8,12 +8,12 @@ using namespace std;
 
 bool isNumber(char const c)
 {
-    return c >= 48 and c <= 57;
+    return c >= 48 && c <= 57;
 }
 
 bool isSymbol(char const c)
 {
-    return !isNumber(c) and c != '.';
+    return !isNumber(c) && c != '.';
 }
 
 void SumParts(int *sum, vector<string> const &vec, int const lines, int const lineLen)
@@ -42,28 +42,28 @@ void SumParts(int *sum, vector<string> const &vec, int const lines, int const li
                 number += character - '0'; // concat char to int
 
                 if (index < lineLen - 1)
-                    isPart = isPart or isSymbol(vec[row][index + 1]);
+                    isPart = isPart || isSymbol(vec[row][index + 1]);
 
                 if (index > 0)
-                    isPart = isPart or isSymbol(vec[row][index - 1]);
+                    isPart = isPart || isSymbol(vec[row][index - 1]);
 
                 if (row < lines - 1)
-                    isPart = isPart or isSymbol(vec[row + 1][index]);
+                    isPart = isPart || isSymbol(vec[row + 1][index]);
 
-                if (row < lines - 1 and index > 0)
-                    isPart = isPart or isSymbol(vec[row + 1][index - 1]);
+                if (row < lines - 1 && index > 0)
+                    isPart = isPart || isSymbol(vec[row + 1][index - 1]);
 
-                if (row < lines - 1 and index < lineLen - 1)
-                    isPart = isPart or isSymbol(vec[row + 1][index + 1]);
+                if (row < lines - 1 && index < lineLen - 1)
+                    isPart = isPart || isSymbol(vec[row + 1][index + 1]);
 
                 if (row > 0)
-                    isPart = isPart or isSymbol(vec[row - 1][index]);
+                    isPart = isPart || isSymbol(vec[row - 1][index]);
 
-                if (row > 0 and index > 0)
-                    isPart = isPart or isSymbol(vec[row - 1][index - 1]);
+                if (row > 0 && index > 0)
+                    isPart = isPart || isSymbol(vec[row - 1][index - 1]);
 
-                if (row > 0 and index < lineLen - 1)
-                    isPart = isPart or isSymbol(vec[row - 1][index + 1]);
+                if (row > 0 && index < lineLen - 1)
+                    isPart = isPart || isSymbol(vec[row - 1][index + 1]);
             }
             index++;
         }

@@ -13,7 +13,6 @@ const string filename = "input.txt";
 
 void PartOne()
 {
-    int result;
     vector<int> calibrationValues;
 
     string text;
@@ -43,6 +42,7 @@ void PartOne()
     }
     file.close();
 
+    int result = 0;
     for (int i : calibrationValues)
     {
         result += i;
@@ -53,7 +53,6 @@ void PartOne()
 
 void PartTwo()
 {
-    int result;
     vector<int> calibrationValues;
 
     string text;
@@ -136,6 +135,7 @@ void PartTwo()
     }
     file.close();
 
+    int result = 0;
     for (int i : calibrationValues)
     {
         result += i;

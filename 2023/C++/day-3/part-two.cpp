@@ -36,7 +36,7 @@ struct SymbolPosition
 
 bool adjacent(const PartNumber *part, const SymbolPosition *symbol)
 {
-    return symbol->col >= part->startIndex - 1 and symbol->col <= part->endIndex + 1;
+    return (symbol->col >= part->startIndex - 1 && symbol->col <= part->endIndex + 1);
 }
 
 int main()
