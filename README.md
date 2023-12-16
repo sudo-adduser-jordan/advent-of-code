@@ -1,6 +1,4 @@
-# Advent of Code
-
-### Advent of Code solutions
+# Advent of Code Solutions
 
 | Event | Repository |
 | --- | --- |
