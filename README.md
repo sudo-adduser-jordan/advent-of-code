@@ -23,5 +23,5 @@
 | Typescript |  |
 | C# |  |
 | Python |  |
-|  |  |
-|  |  |
+| Rust |  |
+| Haskel |  |
