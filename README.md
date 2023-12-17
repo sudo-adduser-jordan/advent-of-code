@@ -16,7 +16,7 @@
 
 | Language | Repository |
 | :---: | --- |
-| GO | https://github.com/sudo-adduser-jordan/advent-of-code-2022 |
+| GO | https://github.com/sudo-adduser-jordan/advent-of-code-templates/tree/main/go |
 | C++ |  |
 | C |  |
 | Java |  |
