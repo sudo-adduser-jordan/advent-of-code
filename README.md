@@ -11,3 +11,17 @@
 | `2017` | * |  | |
 | `2016` | * |  | |
 | `2015` | * |  | |
+
+# Advent of Code Templates
+
+| Language | Repository |
+| :---: | --- |
+| C++ | https://github.com/sudo-adduser-jordan/advent-of-code-2023 |
+| GO | https://github.com/sudo-adduser-jordan/advent-of-code-2022 |
+| C |  |
+| Java |  |
+| Typescript |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
