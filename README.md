@@ -16,12 +16,12 @@
 
 | Language | Repository |
 | :---: | --- |
-| C++ | https://github.com/sudo-adduser-jordan/advent-of-code-2023 |
-| GO | https://github.com/sudo-adduser-jordan/advent-of-code-2022 |
-| C |  |
-| Java |  |
-| Typescript |  |
-| C# |  |
-| Python |  |
-| Rust |  |
-| Haskel |  |
+| C++ | #todo <------ link ------> |
+| GO | #todo |
+| C | #todo |
+| Java | #todo |
+| Typescript | #todo |
+| C# | #todo |
+| Python | #todo |
+| Rust | #todo |
+| Haskel | #todo |
