@@ -21,7 +21,7 @@
 | C |  |
 | Java |  |
 | Typescript |  |
-|  |  |
-|  |  |
+| C# |  |
+| Python |  |
 |  |  |
 |  |  |
