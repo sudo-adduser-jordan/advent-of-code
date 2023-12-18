@@ -2,7 +2,7 @@
 
 | Event | Stars | Language | Repository |
 | --- | :---: | :---: | --- |
-| `2023` | 14* | C++ | https://github.com/sudo-adduser-jordan/advent-of-code-2023 |
+| `2023` | 18* | C++ | https://github.com/sudo-adduser-jordan/advent-of-code-2023 |
 | `2022` | 22* | GO | https://github.com/sudo-adduser-jordan/advent-of-code-2022 |
 | `2021` | * |  | |
 | `2020` | * |  | |
